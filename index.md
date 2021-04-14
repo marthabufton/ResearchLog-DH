@@ -1,6 +1,5 @@
-# Welcome to my research log.
+# Continued (Febrary 22, 2021)
 
-This is a continuation of the entry for February 22, 2021
 
 - I am currently the lead on a digital humanities project. I have three students working with me.
 - I’ve decided to write (at least) weekly about this project between now and the end of term. This timeframe works well, because two of the students will all finish their work on the project within the same time. The other will finish the third week of May.
